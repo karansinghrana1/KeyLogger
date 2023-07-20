@@ -24,10 +24,10 @@ This is a simple keylogger script written in Python using the `pynput` library. 
    ```bash
    pip install pynput
    
-# 1 Run the script using Python:
+ 1 Run the script using Python:
 python keylogger.py
 
-# 2 The keylogger will start recording keystrokes and save them in the key.txt file. Press the Esc key to stop the keylogger.
+ 2 The keylogger will start recording keystrokes and save them in the key.txt file. Press the Esc key to stop the keylogger.
 
 ## Upgrade
 
